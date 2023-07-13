@@ -1,0 +1,119 @@
+<table style="border-collapse: collapse;" cellpadding="20px">
+    <tr style="border: 1px solid #C1C7D0">
+        <td colspan="4" style="background: #ABF5D1; font-weight:bold; border: 1px solid #C1C7D0">
+            Завершённые задачи
+        </td>
+    </tr>
+
+    <tr style="border: 1px solid #C1C7D0;">
+        <td nowrap="true">
+            <a href="CORE-5318">CORE-5318</a>
+        </td>
+        <td>
+            <a href="https://jira.vk.team/browse/CORE-5318">
+                Пробрасывать идентификаторы устройств в события в коллекторах Сезама
+            </a>
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+    </tr>
+
+    <tr style="border: 1px solid #C1C7D0">
+        <td colspan="4" style="background: #E3FCEF; font-weight:bold;">
+            Почти готовы
+        </td>
+    </tr>
+    <tr style="border: 1px solid #C1C7D0">
+        <td colspan="4">
+            -
+        </td>
+    </tr>
+
+    <tr style="border: 1px solid #C1C7D0">
+        <td colspan="4" style="background: #FFFAE6; font-weight:bold;">
+            Ожидают ревью
+        </td>
+    </tr>
+    <tr style="border: 1px solid #C1C7D0">
+        <td nowrap="true">
+            <a href="CORE-5331">CORE-5331</a>
+        </td>
+        <td>
+            <a href="CORE-5331">
+                Начать писать ip, lvid, vid, idDevice, hwid во все MGS (VkPlay) олапы
+            </a>
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+    </tr>
+
+    <tr style="border: 1px solid #C1C7D0">
+        <td colspan="4" style="background: #FFEBE6; font-weight:bold;">
+            Ещё не на ревью
+        </td>
+    </tr>
+    <tr style="border: 1px solid #C1C7D0">
+        <td nowrap="true">
+            <a href="CORE-5379">CORE-5379</a>
+        </td>
+        <td>
+            <a href="browse/CORE-5379">
+                asdasdasdasdasd
+            </a>
+        </td>
+        <td nowrap="true">
+            В работе
+
+        </td>
+        <td>
+            12h
+        </td>
+    </tr>
+
+    <tr style="border: 1px solid #C1C7D0">
+        <td colspan="4" style="background: #FFBDAD; font-weight:bold;">
+            Не было изменений
+        </td>
+    </tr>
+    <tr style="border: 1px solid #C1C7D0">
+        <td nowrap="true">
+            <a href="browse/CORE-5402">CORE-5402</a>
+        </td>
+        <td>
+            <a href="browse/CORE-5402">
+                Добавлять постбэки в очередь
+            </a>
+        </td>
+        <td>
+            Новый
+        </td>
+        <td>
+            24h
+        </td>
+    </tr>
+
+    <tr style="border: 1px solid #C1C7D0">
+        <td nowrap="true">
+            <a href="CORE-5316">CORE-5316</a>
+        </td>
+        <td>
+            <a href="browse/CORE-5316">
+                Добавить колонки для идентификаторов
+            </a>
+        </td>
+        <td>
+            Review Ok
+        </td>
+        <td>
+
+        </td>
+    </tr>
+</table>
